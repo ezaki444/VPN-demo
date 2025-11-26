@@ -83,3 +83,19 @@ now browse and explore the differnce.
 <p
 </p>
 <br />
+</p>
+Now make sure after you finsihed, that you close dissconect the VPN, Close Proton and log out of your VM
+
+click on the windows icon -→ click on the power button -→ then click disconnect
+<br />
+<img src="https://i.imgur.com/4q2tgWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+After you log you, if youre done with the demo completley, make sure to delete your VM so it doesnt use any of your money if youre using a pay-as-you-go subscription.
+click on the box near your 
+</p>
+</p>
+<img src="https://i.imgur.com/Jj0HS9A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p
+</p>
+<br />
