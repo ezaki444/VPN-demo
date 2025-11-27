@@ -40,7 +40,7 @@ This is the IP address for the VM im using (yours will be different depending on
 <p>
   
 <p>
-Sign up and download Proton VPN to you ***VIRTUALMACHINE***, not your personal computer
+Sign up and download Proton VPN to you ***VIRTUAL MACHINE***, not your personal computer
 <img src="https://i.imgur.com/JVEqa0M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -86,16 +86,16 @@ now browse and explore the differnce.
 </p>
 Now make sure after you finsihed, that you close dissconect the VPN, Close Proton and log out of your VM
 
-click on the windows icon -→ click on the power button -→ then click disconnect
+Click on the windows icon -→ click on the power button -→ then click disconnect
 <br />
 <img src="https://i.imgur.com/4q2tgWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 After you log you, if youre done with the demo completley, make sure to delete your VM so it doesnt use any of your money if youre using a pay-as-you-go subscription.
-click on the box near your 
 </p>
 </p>
-<img src="https://i.imgur.com/Jj0HS9A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4Jsay8v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p
-</p>
+</p> 
+Then confirm to delete and youre done!!
 <br />
+<img src="https://i.imgur.com/166eqjt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
